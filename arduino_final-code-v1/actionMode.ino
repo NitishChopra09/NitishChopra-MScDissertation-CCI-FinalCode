@@ -1,0 +1,4 @@
+void actionMode() {
+
+    displayCustomChar(action);
+}

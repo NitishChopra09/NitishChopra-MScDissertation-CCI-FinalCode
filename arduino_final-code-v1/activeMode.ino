@@ -1,0 +1,4 @@
+void activeMode() {
+
+    displayCustomChar(active);
+}
